@@ -29,6 +29,9 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Use Unicorn as the app server
 # gem 'unicorn'
 
+# Use Bootstrap for front end frame work
+gem 'bootstrap-sass', '~> 3.3.5.1'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
