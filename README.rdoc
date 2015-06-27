@@ -1,13 +1,12 @@
-== README
+== PINTEREST CLONE BUILT WITH RAILS
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a Pinterest clone that I am building with Ruby on Rails. I am following a tutorial written by John Elder.
 
-Things you may want to cover:
+Here is some basic information about the app:
 
-* Ruby version
+* Rails version 4.2.2
 
-* System dependencies
+* Bootstrap 3.3
 
 * Configuration
 
