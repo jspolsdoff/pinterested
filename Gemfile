@@ -42,7 +42,7 @@ gem 'devise', '~> 3.5.1'
 gem 'paperclip', '~> 4.3.0'
 
 # Use Amazon S3 for image hosting
-gem 'aws-sdk', '~> 2.1.2'
+gem 'aws-sdk', '< 2.0'
 
 gem 'jquery-turbolinks'
 gem 'masonry-rails', '~> 0.2.4'
