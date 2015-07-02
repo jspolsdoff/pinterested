@@ -44,6 +44,13 @@ gem 'paperclip', '~> 4.3.0'
 # Use Amazon S3 for image hosting
 gem 'aws-sdk', '~> 1.60.2'
 
+gem 'jquery-turbolinks'
+gem 'masonry-rails', '~> 0.2.4'
+
+# Use Pagination for number of pictures per pages
+gem 'will_paginate', '~> 3.0.7'
+gem 'will_paginate-bootstrap', '~> 1.0.1'
+
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug'
